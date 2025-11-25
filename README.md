@@ -1,6 +1,4 @@
-<div align="center">
-<h1> [AAAI'26] Uncovering and Mitigating Destructive Multi-Embedding Attacks in Deepfake Proactive Forensics </h1>
-</div>
+# 【AAAI'26】 Uncovering and Mitigating Destructive Multi-Embedding Attacks in Deepfake Proactive Forensics
 
 ## 📢 News
 * **[2025-11]** Our paper is accepted by **AAAI 2026**! 🎉
