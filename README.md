@@ -1,5 +1,5 @@
 <div align="center">
-<h1> 【AAAI'26】 Uncovering and Mitigating Destructive Multi-Embedding Attacks in Deepfake Proactive Forensics </h1>
+<h1> [AAAI'26] Uncovering and Mitigating Destructive Multi-Embedding Attacks in Deepfake Proactive Forensics </h1>
 </div>
 
 ## 📢 News
@@ -99,10 +99,10 @@ Robustness Evaluation: Resisting Intra-model MEA.
 Please cite our paper if the code is used in your research:
 
 ```
-@article{jia2025uncovering,
+@article{jia2026uncovering,
   title={Uncovering and Mitigating Destructive Multi-Embedding Attacks in Deepfake Proactive Forensics},
   author={Jia, Lixin and Sun, Haiyang and Guo, Zhiqing and Diao, Yunfeng and Ma, Dan and Yang, Gaobo},
-  journal={arXiv preprint arXiv:2508.17247},
-  year={2025}
+  journal={Proceedings of the AAAI Conference on Artificial Intelligence},
+  year={2026}
 }
 ```
