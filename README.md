@@ -1,4 +1,6 @@
-# 【AAAI'26】 Uncovering and Mitigating Destructive Multi-Embedding Attacks in Deepfake Proactive Forensics
+<div align="center">
+<h1> 【AAAI'26】 Uncovering and Mitigating Destructive Multi-Embedding Attacks in Deepfake Proactive Forensics </h1>
+</div>
 
 ## 📢 News
 * **[2025-11]** Our paper is accepted by **AAAI 2026**! 🎉
@@ -93,3 +95,14 @@ Visual effects of the manipulations on the watermarked images.
 Robustness Evaluation: Resisting Intra-model MEA.
 </div>
 
+##  Citation
+Please cite our paper if the code is used in your research:
+
+```
+@article{jia2025uncovering,
+  title={Uncovering and Mitigating Destructive Multi-Embedding Attacks in Deepfake Proactive Forensics},
+  author={Jia, Lixin and Sun, Haiyang and Guo, Zhiqing and Diao, Yunfeng and Ma, Dan and Yang, Gaobo},
+  journal={arXiv preprint arXiv:2508.17247},
+  year={2025}
+}
+```
