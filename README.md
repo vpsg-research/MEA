@@ -99,10 +99,10 @@ Robustness Evaluation: Resisting Intra-model MEA.
 Please cite our paper if the code is used in your research:
 
 ```
-@article{jia2026uncovering,
+@inproceedings{jia2025uncovering,
   title={Uncovering and Mitigating Destructive Multi-Embedding Attacks in Deepfake Proactive Forensics},
   author={Jia, Lixin and Sun, Haiyang and Guo, Zhiqing and Diao, Yunfeng and Ma, Dan and Yang, Gaobo},
-  journal={Proceedings of the AAAI Conference on Artificial Intelligence},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
   year={2026}
 }
 ```
