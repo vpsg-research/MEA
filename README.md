@@ -68,12 +68,12 @@ We provide the pretrained checkpoints for all the methods mentioned in our paper
 
 | Method | Checkpoint Download |
 | :--- | :--- |
-| **SepMark** | [Google Drive](https://drive.google.com/file/d/1g_RNS3JWbD88UmlXNBa6oWKmzvZ0qScS/view?usp=drive_link) |
-| **WaveGuard** | [Google Drive](https://drive.google.com/file/d/1oia6cmhYlja8ognIdi-LQR9ONnwRowNc/view?usp=sharing) |
-| **LampMark** | [Google Drive](https://drive.google.com/file/d/1m2NfcdyWCKNZS-7hxEBHE0w5QA5n7Msv/view?usp=sharing) |
-| **HiDDeN** | [Google Drive](https://drive.google.com/file/d/1byZ6oRhqX_yaeKBGaa4wTF5QueqhAxUc/view?usp=sharing) |
-| **EditGuard** | [Google Drive](https://drive.google.com/file/d/10PWPqLbfPUNrADgalwuSb3qzDQpXSlLx/view?usp=sharing) |
-| **MBRS** | [Google Drive](https://drive.google.com/file/d/1q78pvr1RbUhH2G16aXDS3LY-Og2cndHv/view?usp=sharing) |
+| **SepMark** | [Google Drive](https://drive.google.com/file/d/1TX7XAb9qJlOXHUFEDdcoPtFJjqJ_vTGD/view?usp=drive_link) |
+| **WaveGuard** | [Google Drive](https://drive.google.com/file/d/1HgsGsp2_JiQA7Cje9Z_fakTs8vSH8rSk/view?usp=drive_link) |
+| **LampMark** | [Google Drive](https://drive.google.com/file/d/1BlQEbVXAWoLihuq3fUmMSsqY9FUA_QND/view?usp=drive_link) |
+| **HiDDeN** | [Google Drive](https://drive.google.com/file/d/1P3qPJolyoSu2UgmBch8FDiVSgylSP5RM/view?usp=drive_link) |
+| **EditGuard** | [Google Drive](https://drive.google.com/file/d/1pS_lFwJ-0q60C4cP7CHTInYCDEGiikEU/view?usp=drive_link) |
+| **MBRS** | [Google Drive](https://drive.google.com/file/d/1Or2mw1H4F318iXkFzYFu6QNdjfqQx7Wi/view?usp=drive_link) |
 
 ## 🖼️ Visualization
 
